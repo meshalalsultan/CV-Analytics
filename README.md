@@ -14,12 +14,12 @@ By take advantage of Machine Lerning the user can fill his text in app as input 
 
 ## The App UX :
 
-1- The user will follow the qustion about his Expirance , Skills .. etc --> any think realted to his CV .
-2- The input text will save in the database .
-3- The text will POST the text to the model API .
-4- GET the respond from API as json .
-5- The respons will save in database.
-6- Show the result chart to the user .
+ 1- The user will follow the qustion about his Expirance , Skills .. etc --> any think realted to his CV .
+ 2- The input text will save in the database .
+ 3- The text will POST the text to the model API .
+ 4- GET the respond from API as json .
+ 5- The respons will save in database.
+ 6- Show the result chart to the user .
 
 ## The App UI & Prototype & WorkFlow :
 
